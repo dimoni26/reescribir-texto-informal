@@ -62,7 +62,8 @@ with col1:
     st.markdown("Re-escribe tu texto en diferentes estilos")
 
 with col2:
-    st.write("Contacta con [Álvaro](mailto:alvarodimoni@gmail.com) para construir tus proyectos de IA personalizados.")
+    st.write("Contacta con [Álvaro]<a href="mailto:tudireccion@gmail.com">Envíame un mensaje</a>
+ para construir tus proyectos de IA personalizados.")
 
 
 #Input OpenAI API Key
