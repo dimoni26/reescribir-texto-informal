@@ -62,7 +62,7 @@ with col1:
     st.markdown("Re-escribe tu texto en diferentes estilos")
 
 with col2:
-st.write("Contacta con [Dimoni] para construir tus proyectos de IA personalizados.")
+    st.write("Contacta con [Dimoni](https://autmatix.es) para construir tus proyectos de IA personalizados")
 
 #Input OpenAI API Key
 st.markdown("## Escribe tu API de OpenAI")
