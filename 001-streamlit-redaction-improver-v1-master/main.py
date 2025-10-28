@@ -64,7 +64,6 @@ with col1:
 with col2:
 st.write("Contacta con [Dimoni] para construir tus proyectos de IA personalizados.")
 
-
 #Input OpenAI API Key
 st.markdown("## Escribe tu API de OpenAI")
 
