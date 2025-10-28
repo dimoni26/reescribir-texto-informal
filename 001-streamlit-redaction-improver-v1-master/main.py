@@ -62,7 +62,7 @@ with col1:
     st.markdown("Re-escribe tu texto en diferentes estilos")
 
 with col2:
-    st.write("Contacta con [Álvaro]<a href="mailto:tudireccion@gmail.com">Envíame un mensaje</a>
+    st.write("Contacta con [Álvaro](mailto:alvarodimoni@gmail.com) para construir tus proyectos de IA personalizados."unsafe_allow_html=True)
  para construir tus proyectos de IA personalizados.")
 
 
